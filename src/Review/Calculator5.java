@@ -46,6 +46,7 @@ public class Calculator5 {
                    // X = 1 * 2 = 2
                    // X = 2 * 2 = 4
                    // X = 4 * 2 = 8
+                   // 또 추가
                    System.out.print("아무거나");
                }
             } else if (("/").equals(operator)) {
